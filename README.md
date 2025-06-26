@@ -16,11 +16,11 @@ The goal is to help organizations analyze and monitor their human capital for sm
 
 **Tools & Formulas Used**
 
-PivotTables: Used to summarize and categorize raw HR data 
-Slicers: Enables filtering by department, gender, or anything else
-GETPIVOTDATA: Retrieves specific data from PivotTables 
-IFERROR: Handles errors gracefully in formula outputs 
-Custom Charts: Visual representation of KPIs like attrition rate, headcount, etc.
+- PivotTables: Used to summarize and categorize raw HR data 
+- Slicers: Enables filtering by department, gender, or anything else
+- GETPIVOTDATA: Retrieves specific data from PivotTables 
+- IFERROR: Handles errors gracefully in formula outputs 
+- Custom Charts: Visual representation of KPIs like attrition rate, headcount, etc.
 
 **Key Insights Available**
 - Total and department-wise headcount
