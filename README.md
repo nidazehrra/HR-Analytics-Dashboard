@@ -15,6 +15,7 @@ This dashboard was designed to assist HR professionals and recruiters in underst
 The goal is to help organizations analyze and monitor their human capital for smarter workforce decisions.
 
 **Tools & Formulas Used**
+
 PivotTables: Used to summarize and categorize raw HR data 
 Slicers: Enables filtering by department, gender, or anything else
 GETPIVOTDATA: Retrieves specific data from PivotTables 
